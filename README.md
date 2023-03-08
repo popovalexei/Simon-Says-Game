@@ -1,13 +1,24 @@
 # Simon-Says-Game
 
-This is Simon Says Game. Developed by me as practice exercise during the Udemy webdevelopment course.
+Simon Says Game - is a simple game that I developed as a practice exercise during a Udemy web development course. The game is based on the classic Simon Says game, where the user has to repeat a sequence of colors in the correct order.
 
-You can access and play the game here: https://popovalexei.github.io/Simon-Says-Game/
+Technologies Used:
 
-Technologies used: HTML, CSS. JavaScript and jQuery (DOM).
+The game was built using HTML, CSS, JavaScript, and jQuery (DOM).
 
-How to plat the game: 
-1. Press A to start the game. Firstly, the game shows the first colour in the sequence (for ex. blue). The user clicks on the blue button.
-2. Next, the game shows the next colour (red), the user has to remember the sequence is blue, red and so on and so forth. If the user messes up the sequence, then the game ends.
+How to Play:
 
-Good luck! 
+To start the game, press the "A" key. The game will then show you the first color in the sequence (e.g. blue). Click on the blue button to repeat the sequence. The game will then show you the next color (e.g. red), and you have to remember the entire sequence (in this case, blue, red). The game will keep adding colors to the sequence, and you have to keep remembering and repeating the entire sequence in the correct order.
+
+If you make a mistake and repeat the sequence incorrectly, the game will end. Press any key to restart the game.
+
+Good luck!
+
+Play the Game:
+You can play Simon Says Game online at https://popovalexei.github.io/Simon-Says-Game/.
+
+
+
+
+
+
