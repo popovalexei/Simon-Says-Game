@@ -1,5 +1,7 @@
 # Simon-Says-Game
 
+You can play Simon Says Game online at https://popovalexei.github.io/Simon-Says-Game/.
+
 Simon Says Game - is a simple game that I developed as a practice exercise during a Udemy web development course. The game is based on the classic Simon Says game, where the user has to repeat a sequence of colors in the correct order.
 
 Technologies Used:
@@ -14,8 +16,6 @@ If you make a mistake and repeat the sequence incorrectly, the game will end. Pr
 
 Good luck!
 
-Play the Game:
-You can play Simon Says Game online at https://popovalexei.github.io/Simon-Says-Game/.
 
 
 
