@@ -1,24 +1,24 @@
 # Simon-Says-Game
 
-You can play Simon Says Game online at https://popovalexei.github.io/Simon-Says-Game/.
+Play the Simon Says Game online: [Simon Says Game](https://popovalexei.github.io/Simon-Says-Game/).
 
-Simon Says Game - is a simple game that I developed as a practice exercise during a Udemy web development course. The game is based on the classic Simon Says game, where the user has to repeat a sequence of colors in the correct order.
+Simon Says Game is a straightforward and engaging project developed as a practical exercise during a Udemy web development course. The game draws inspiration from the classic Simon Says game, where players are tasked with accurately reproducing a sequence of colors in the precise order presented.
 
-Technologies Used:
+## Technologies Used
 
-The game was built using HTML, CSS, JavaScript, and jQuery (DOM).
+The game is constructed using the following technologies:
 
-How to Play:
+- HTML
+- CSS
+- JavaScript
+- jQuery (DOM manipulation)
 
-To start the game, press the "A" key. The game will then show you the first color in the sequence (e.g. blue). Click on the blue button to repeat the sequence. The game will then show you the next color (e.g. red), and you have to remember the entire sequence (in this case, blue, red). The game will keep adding colors to the sequence, and you have to keep remembering and repeating the entire sequence in the correct order.
+These technologies work cohesively to create an interactive and enjoyable gaming experience for users.
 
-If you make a mistake and repeat the sequence incorrectly, the game will end. Press any key to restart the game.
+## How to Play
 
-Good luck!
+To commence the game, press the "A" key. The game will display the initial color in the sequence (e.g., blue). Click on the corresponding colored button to replicate the sequence. Subsequently, the game will reveal the next color (e.g., red), requiring you to recall and reproduce the entire sequence (e.g., blue, red). The complexity increases as the game progressively introduces additional colors to the sequence, challenging your memory and attention to detail.
 
+Making an error and reproducing the sequence incorrectly concludes the game. Press any key to restart and embark on a new round.
 
-
-
-
-
-
+Wishing you the best of luck in your Simon Says endeavors!
